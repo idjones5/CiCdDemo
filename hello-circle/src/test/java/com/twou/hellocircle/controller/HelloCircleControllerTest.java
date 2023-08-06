@@ -41,4 +41,4 @@ public class HelloCircleControllerTest {
                 // assert
                 .andExpect(content().string("The answer is 42!"));
     }
-}
+} 
